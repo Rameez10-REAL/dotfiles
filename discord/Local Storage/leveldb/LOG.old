@@ -1,0 +1,24 @@
+2023/07/17-17:47:00.333 2408 Reusing MANIFEST /home/ram/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2023/07/17-17:47:00.333 2408 Recovering log #1522
+2023/07/17-17:47:00.333 2408 Reusing old log /home/ram/.config/discord/Local Storage/leveldb/001522.log 
+2023/07/17-17:49:39.588 5992 Level-0 table #1525: started
+2023/07/17-17:49:39.592 5992 Level-0 table #1525: 15704 bytes OK
+2023/07/17-17:49:39.595 5992 Delete type=0 #1522
+2023/07/17-17:53:34.733 3526 Level-0 table #1527: started
+2023/07/17-17:53:34.735 3526 Level-0 table #1527: 14936 bytes OK
+2023/07/17-17:53:34.737 3526 Delete type=0 #1524
+2023/07/17-17:53:34.737 3526 Compacting 4@0 + 1@1 files
+2023/07/17-17:53:34.752 3526 Generated table #1528@0: 157 keys, 1790072 bytes
+2023/07/17-17:53:34.752 3526 Compacted 4@0 + 1@1 files => 1790072 bytes
+2023/07/17-17:53:34.753 3526 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/07/17-17:53:34.753 3526 Delete type=2 #1521
+2023/07/17-17:53:34.753 3526 Delete type=2 #1516
+2023/07/17-17:53:34.753 3526 Delete type=2 #1527
+2023/07/17-17:53:34.753 3526 Delete type=2 #1519
+2023/07/17-17:53:34.753 3526 Delete type=2 #1525
+2023/07/17-17:55:04.784 5992 Level-0 table #1530: started
+2023/07/17-17:55:04.786 5992 Level-0 table #1530: 15000 bytes OK
+2023/07/17-17:55:04.788 5992 Delete type=0 #1526
+2023/07/17-17:59:30.282 4f19 Level-0 table #1532: started
+2023/07/17-17:59:30.284 4f19 Level-0 table #1532: 15423 bytes OK
+2023/07/17-17:59:30.288 4f19 Delete type=0 #1529
